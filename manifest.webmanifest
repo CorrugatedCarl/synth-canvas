@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "SYNTH",
-  "short_name": "SYNTH",
+  "name": "SYNTH Canvas",
+  "short_name": "Canvas",
   "description": "Circuit-level emulations of landmark analog synthesizers, a Serum-style wavetable synth and a multitrack MIDI studio — playable offline.",
   "lang": "en",
   "dir": "ltr",
